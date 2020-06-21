@@ -2,7 +2,7 @@ import sys
 
 
 def fn1():
-    return 'v0.3'
+    return 'v0.4'
 
 def fn2():
     print('fn2 called')
