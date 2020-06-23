@@ -11,3 +11,4 @@ def fn2():
 if __name__ == '__main__':
     ver = fn1()
     print(ver)
+    print('rw')
